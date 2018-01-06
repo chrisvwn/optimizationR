@@ -1,0 +1,9 @@
+In R language we need the following points to be done:
+
+Using some normal data the features have to be extracted,based on features the following parameters havo be implemented
+
+For optimization, we employ adaptive genetic algorithm to select the objective function for frequent pattern mining algorithm
+
+Based on the mined data, the product recommendation is done with the aid of artificial intelligence. In our proposed method we employ Hybrid neural network (HNN) where in we incorporate cuckoo search algorithm for selecting the weight factor.
+
+This module have to be implemented in R language

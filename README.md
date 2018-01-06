@@ -1,0 +1,1 @@
+Modelling association rules using neural nets and optimizing using genetic algorithm and cuckoo search.
